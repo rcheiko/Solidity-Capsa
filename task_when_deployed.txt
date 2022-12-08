@@ -1,0 +1,8 @@
+- MINTER_ROLE -> CAPSA_TOKEN -> CAPSA_SWAP
+- MINTER_ROLE -> LDG_TOKEN -> LDG_SWAP
+
+- For the fund Wallet Capsa -> Approve USD in the CAPSA_SWAP
+- For the fund Wallet LDG -> Approve Capsa in the LDG_SWAP
+
+- Approve USD to deposit on LDG_SWAP
+- Approve LDG_TOKEN to withdraw on LDG_SWAP

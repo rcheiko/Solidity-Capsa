@@ -1,0 +1,6 @@
+DEPLOY THE CONTRACT :
+- npx hardhat run scripts/deploy.js --network polygon_mumbai
+
+
+TEST THE CONTRACT :
+- npx hardhat test
